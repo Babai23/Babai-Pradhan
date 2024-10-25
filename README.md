@@ -1,5 +1,4 @@
-![image](https://github.com/user-attachments/assets/fc41db03-a882-41cf-9a99-417eec6ce419)
-]
+
 <h1 align="center">Hi 👋, I'm Babai Pradhan</h1>
 <h3 align="center">Flutter Learner , Growing My Skills in Cross-Platform Development</h3>
 <img align="right" alt="coding" width="400" src="https://media1.tenor.com/m/Ug6cbVA1ZsMAAAAd/developer.gif">
