@@ -1,4 +1,4 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
+[![MasterHead](https://media.licdn.com/dms/image/v2/D4D12AQFjUE-DOwtOIQ/article-cover_image-shrink_423_752/article-cover_image-shrink_423_752/0/1655714396799?e=1735171200&v=beta&t=Lge04OcnlW3et017Ja-hsq4SRmSdxrCT2EHurvcXHZo)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Babai Pradhan</h1>
 <h3 align="center">Flutter Learner , Growing My Skills in Cross-Platform Development</h3>
 <img align="right" alt="coding" width="400" src="https://media1.tenor.com/m/Ug6cbVA1ZsMAAAAd/developer.gif">
