@@ -1,4 +1,4 @@
-[![MasterHead](![image](https://github.com/user-attachments/assets/d0d071be-a7cb-45f4-a877-92fa21a9f184)
+(![image](https://github.com/user-attachments/assets/fc41db03-a882-41cf-9a99-417eec6ce419)
 ](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Babai Pradhan</h1>
 <h3 align="center">Flutter Learner , Growing My Skills in Cross-Platform Development</h3>
